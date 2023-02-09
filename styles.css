@@ -4,7 +4,10 @@
   font-family: LindenHill-webfont, LindenHill, Arial ;
   color: #FFFFFF;
   }
-.canvas {
+header {
+  text-align: center;
+} 
+  .canvas {
     width: 500px;
     height: 600px;
     background-color: #4d0f00;
