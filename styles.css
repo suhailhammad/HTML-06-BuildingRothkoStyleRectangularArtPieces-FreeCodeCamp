@@ -1,3 +1,9 @@
+*{
+  /*{"bg":"#8143D1","icon":"#4CBBE5","font":"#FFFFFF","slogan":"#ffffff"}*/
+  background-color: #8143D1;
+  font-family: LindenHill-webfont, LindenHill, Arial ;
+  color: #FFFFFF;
+  }
 .canvas {
     width: 500px;
     height: 600px;
